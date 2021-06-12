@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file://C:/Flutter Sdk/flutter/.pub-cache/hosted/pub.dartlang.org/libphonenumber-2.0.0" />
+      <root url="file://C:/Flutter Sdk/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-2.0.0+3" />
+      <root url="file://C:/Flutter Sdk/flutter/.pub-cache/hosted/pub.dartlang.org/libphonenumber_plugin-0.2.3" />
+      <root url="file://C:/Flutter Sdk/flutter/.pub-cache/hosted/pub.dartlang.org/libphonenumber_web-0.2.0+1" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

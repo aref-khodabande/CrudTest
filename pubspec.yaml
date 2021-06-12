@@ -1,0 +1,26 @@
+name: aref_khodabande_crud_test
+description: Aref Khodabande Crud Test.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  motion_tab_bar: ^0.0.1
+  sqflite: ^2.0.0+3
+  intl_phone_number_input: ^0.7.0+2
+  enhanced_future_builder: ^1.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
